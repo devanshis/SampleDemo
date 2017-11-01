@@ -1,0 +1,1 @@
+Another git lesson : when push to master branch rights is not  given
